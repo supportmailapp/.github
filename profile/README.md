@@ -2,8 +2,6 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F2F8MZRJC)
 
-_From LukeZ - Developer of SupportMail:_
-
 Welcome to the official GitHub page for **SupportMail**, a powerful and easy-to-use Discord bot designed to simplify support ticket systems and improve server communication.
 
 ## 🔍 About the Bot
